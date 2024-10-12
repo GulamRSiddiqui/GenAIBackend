@@ -1,0 +1,60 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F628-53D9
+
+ Directory of C:\AI\Kafka\GenAIBackend\myds
+
+10/09/2024  10:35 PM    <DIR>          .
+10/09/2024  10:35 PM    <DIR>          ..
+10/07/2024  08:50 PM    <DIR>          Agra_Fort
+10/07/2024  08:50 PM    <DIR>          Ajanta_Ellora_Caves
+10/07/2024  08:50 PM    <DIR>          Amer_Fort
+10/07/2024  08:50 PM    <DIR>          Bara_Imambara
+10/07/2024  08:50 PM    <DIR>          Basilica_of_Bom_Jesus
+10/07/2024  08:50 PM    <DIR>          Bhimbetka
+10/07/2024  08:50 PM    <DIR>          Brihadisvara_Temple
+10/07/2024  08:50 PM    <DIR>          burj
+10/07/2024  08:50 PM    <DIR>          Charminar
+10/07/2024  08:50 PM    <DIR>          City_Palace
+10/07/2024  08:50 PM    <DIR>          Dilwara_Temples
+10/07/2024  08:50 PM    <DIR>          Eiffel_Tower
+10/07/2024  08:50 PM    <DIR>          Elephanta_Caves
+10/07/2024  08:50 PM    <DIR>          Fatehpur_Sikri
+10/07/2024  08:50 PM    <DIR>          Gateway_of_India
+10/07/2024  08:50 PM    <DIR>          Gingee_Fort
+10/07/2024  08:50 PM    <DIR>          Golconda_Fort
+10/07/2024  08:50 PM    <DIR>          Golden_Temple
+10/07/2024  08:50 PM    <DIR>          Gwalior_Fort
+10/07/2024  08:50 PM    <DIR>          Hampi
+10/07/2024  08:50 PM    <DIR>          Hawa_Mahal
+10/07/2024  08:50 PM    <DIR>          Hill_Palace_Museum
+10/07/2024  08:50 PM    <DIR>          Humayuns_Tomb
+10/07/2024  08:50 PM    <DIR>          India_Gate
+09/19/2024  05:41 PM    <DIR>          Jaisalmer_Fort
+09/19/2024  05:41 PM    <DIR>          Jama_Masjid
+09/19/2024  05:41 PM    <DIR>          Jantar_Mantar
+09/19/2024  05:41 PM    <DIR>          Kamakhya_Temple
+09/19/2024  05:41 PM    <DIR>          Kashi_Vishwanath
+09/19/2024  05:41 PM    <DIR>          Key_Monastery_Spiti_Valley
+09/19/2024  05:41 PM    <DIR>          Khajuraho_Temples
+09/19/2024  05:41 PM    <DIR>          Lotus_Temple
+09/19/2024  05:41 PM    <DIR>          Mahabalipuram
+09/19/2024  05:41 PM    <DIR>          Mahabodhi_Temple
+09/19/2024  05:41 PM    <DIR>          Meenakshi_Temple
+09/19/2024  05:41 PM    <DIR>          Mehrangarh_Fort
+09/19/2024  05:41 PM    <DIR>          Mysore_Palace
+09/19/2024  05:41 PM    <DIR>          Nalanda
+10/09/2024  10:35 PM                 0 out.xt
+09/19/2024  05:41 PM    <DIR>          Pattadakal
+09/19/2024  05:41 PM    <DIR>          Purana_Qila
+09/19/2024  05:41 PM    <DIR>          Qutub_Minar
+09/19/2024  05:41 PM    <DIR>          Rashtrapati_Bhawan
+09/19/2024  05:41 PM    <DIR>          Red_Fort
+09/19/2024  05:41 PM    <DIR>          Sanchi_Stupa
+09/19/2024  05:41 PM    <DIR>          Se_Cathedral
+09/19/2024  05:41 PM    <DIR>          Shivaji_Terminus
+09/19/2024  05:41 PM    <DIR>          Sikandra_Agra
+09/19/2024  05:41 PM    <DIR>          Sun_Temple
+10/07/2024  08:50 PM    <DIR>          Taj_Mahal
+09/19/2024  05:41 PM    <DIR>          Victoria_Memorial
+               1 File(s)              0 bytes
+              52 Dir(s)  14,827,081,728 bytes free

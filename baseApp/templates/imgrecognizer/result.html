@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Place Details</title>
+</head>
+<body>
+    <h1>{{ place_name }}</h1>
+    {% if place_details %}
+        <img src="{{ place_details.thumbnail }}" alt="{{ place_details.title }}">
+        <h2>{{ place_details.title }}</h2>
+        <p>{{ place_details.description }}</p>
+        <p>{{ place_details.extract }}</p>
+    {% else %}
+        <p>No details found.</p>
+    {% endif %}
+    
+    <h3>Saved Place Information</h3>
+    <img src="{{ place.image.url }}" alt="{{ place.name }}" style="width:200px;">
+    <p>Name: {{ place.name }}</p>
+    <p>Location: {{ place.location }}</p>
+    <p>Description: {{ place.description }}</p>
+    <a href="/recognizer">Upload another image</a>
+</body>
+</html>

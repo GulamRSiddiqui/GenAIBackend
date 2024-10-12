@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload Successful</title>
+</head>
+<body>
+    <h1>Image Uploaded Successfully!</h1>
+    <p>Uploaded Place: {{ place.name }}</p>
+    <p>Location: {{ place.location }}</p>
+    <img src="{{ place.image.url }}" alt="{{ place.name }}">
+    <a href="{% url 'admin:recognizer_place_changelist' %}">Back to Places</a>
+</body>
+</html>
